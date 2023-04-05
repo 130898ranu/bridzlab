@@ -1,0 +1,17 @@
+step 1:
+List all files in loop
+step 2:
+List only python files
+Eg: a1.py a2.py a3.py
+step 3:
+find a name of the python files
+Eg:a1.py===>a1
+   a2.py===>a2
+   a3.py===>a3
+step 4:
+create new folder with same name as python files name.
+   a1.py===>a1/
+   a2.py===>a2/
+   a3.py===>a3/
+step 5:
+Copy a python file (a1.py) and paste into spesific folder a1/.
